@@ -1,11 +1,11 @@
 {
   "appName": {
-    "message": "WebChatGPT: ChatGPT with internet access"
+    "message": "WebChatGPT: ChatGPT internet-hozzáféréssel"
   },
   "appDesc": {
-    "message": "Augment your ChatGPT prompts with relevant results from the web."
+    "message": "Egészítse ki a ChatGPT lekérdezéseket az internetről származó releváns eredményekkel."
   },
   "toggleWebAccess": {
-    "message": "Toggle Web Access"
+    "message": "Webes hozzáférés kapcsoló"
   }
 }
